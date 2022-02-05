@@ -1,0 +1,16 @@
+@import "../../assets/scss/variables.scss";
+
+.home {
+  background-color: $main-dark-bg-color;
+  height:100vh;
+  overflow: hidden;
+  &__block {
+    display: flex;
+  }
+
+  &__container{
+    display: flex;
+    justify-content: center;
+  }
+  
+}
