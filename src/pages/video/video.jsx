@@ -47,7 +47,7 @@ const Video = () => {
                             </button>
                         </div>
                     </div>
-                </div>
+                </div>  
                 <hr/>
                 <div className={'video__summary'}>
                     <div className={"video__summary--left"}>
